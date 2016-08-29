@@ -1,6 +1,6 @@
 function codeClick() {
    var appEmailId=document.getElementById('emailId').value; //email address specified by user
-   var appAccessToken='ZDdiMGU4YjQtZjJmMS00YTQ5LTlkYWQtOWNjMjI1MmQwNDBlOTFmYjU4MmEtYmZi'; //access token
+   var appAccessToken=''; //access token *******INSERT YOUR ACCESS TOKEN HERE************
    xhttp = new XMLHttpRequest(); // Create an AJAX HTTP request object
    xhttp.onreadystatechange = function() {  // Define a handler, which fires when the request completes
       if (xhttp.readyState == 4) { // If the request state = 4 (completed)...
