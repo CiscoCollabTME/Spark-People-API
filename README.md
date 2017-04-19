@@ -3,3 +3,7 @@ HTML JavaScript CSS Web App that explores the Cisco Spark people API to view a u
 
 IMPORTANT: Make sure to update the appAccessToken variable in avatar-people.js. 
 You can get your personal access token by logging into www.developer.ciscospark.com
+
+
+
+https://youtu.be/brE0gSWRNJ8
